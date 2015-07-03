@@ -5,4 +5,4 @@ In future I plan to add other features.
 
 # Releases
 
-[ShapefileViewer](releases)
+[ShapefileViewer-0.1](https://github.com/ianturton/ShapefileViewer/blob/master/releases/ShapefileViewer-0.1.jar)
